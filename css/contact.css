@@ -1,0 +1,26 @@
+
+@media screen and (min-width:786px)
+{
+    .carte
+    {
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
+.carte
+{
+    margin-top: 5%;
+    color: antiquewhite;
+}
+.carte
+{
+    background-image: url("./img/contactUs2.jpg");
+}
+.partieSection
+{
+    background-image: url('./img/fondPageContact.jpg');
+}
+.telephone:hover
+{
+    color: red;
+}
