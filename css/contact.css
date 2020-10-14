@@ -14,11 +14,11 @@
 }
 .carte
 {
-    background-image: url("/home/marius_tresor/Documents/site club SUP\'PTIC/layouts-main2/img/contactUs2.jpg");
+    background-image: url("../img/contactUs2.jpg");
 }
 .partieSection
 {
-    background-image: url('/home/marius_tresor/Documents/site club SUP\'PTIC/layouts-main2/img/fondPageContact.jpg');
+    background-image: url('../img/fondPageContact.jpg');
 }
 .telephone:hover
 {
