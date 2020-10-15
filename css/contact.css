@@ -13,5 +13,17 @@
 }
 .message
 {
-    margin: 0 2% 2%;
+    margin: 0 3% 2%;
+    text-align: justify;
+    text-align-last: left;
+}
+.bouton{
+    margin-left: 15%;
+    width: 65%;
+    box-sizing: border-box;
+}
+@media screen and (max-width:357px){
+    .contact{
+        white-space: nowrap;
+    }
 }
